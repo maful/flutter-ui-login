@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Screenshot](https://raw.githubusercontent.com/maful/flutter-ui-login/master/docs/screenshots/screenshot.png)
+<img src="https://raw.githubusercontent.com/maful/flutter-ui-login/master/docs/screenshots/screenshot.png" width="300">
 
 ## Getting Started
 
