@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Screenshot](https://raw.githubusercontent.com/maful/flutter-ui-login/master/docs/screenshots/screenshot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
